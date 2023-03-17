@@ -1,4 +1,4 @@
-Projeto Aluroni
+##Projeto Aluroni
 O projeto Aluroni é uma página de cardápio digital. Foi desenvolvido no curso "React: lidando com arquivos estáticos" da Alura.
 
 O objetivo do projeto é praticar os seguintes conceitos:
