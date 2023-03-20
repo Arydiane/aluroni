@@ -2,7 +2,7 @@ import { useEffect } from 'react';
 import { useState } from 'react';
 import Ordenador from '../Ordenador';
 import Item from './Item';
-import cardapio from './itens.json';
+import cardapio from 'data/cardapio.json';
 import styles from './Itens.module.scss';
 interface Props {
     busca: string; 
