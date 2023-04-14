@@ -6,9 +6,9 @@ O objetivo do projeto é praticar os seguintes conceitos:
  - Criação de rotas utilizando o react-router-dom
  - Utilização dos hooks: useState, useEffect, useParams, useNavigate
  - Otimização de performance com: 
-   Realização da memoização um componente (React.memo) 
-   Utilização do hook useMemo
-   Utilização do React.lazy para realizar carregamento dinâmico de páginas e componentes
+   * Realização da memoização um componente (React.memo) 
+   * Utilização do hook useMemo
+   * Utilização do React.lazy para realizar carregamento dinâmico de páginas e componentes
     
  
 ## 🔧 Tecnologias
